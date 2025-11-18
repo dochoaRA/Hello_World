@@ -23,7 +23,7 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Ciao Mattia"}
+      Value: {"LocaleId":"en-US","Text":"Hello World!"}
     - Name: Width
       Type: BaseVariableType
       DataType: Size
@@ -48,7 +48,7 @@ Children:
       Type: BaseDataVariableType
       DataType: Color
       ModellingRule: Optional
-      Value: "#f91b1b"
+      Value: "#3b3b3b"
     - Name: FontSize
       Type: BaseDataVariableType
       DataType: Size
