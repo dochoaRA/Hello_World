@@ -153,3 +153,8 @@ Children:
       DataType: Color
       ModellingRule: Optional
       Value: "#eb001b"
+    - Name: BlinkWhenActive
+      Type: BaseDataVariableType
+      DataType: Boolean
+      ModellingRule: Optional
+      Value: true
