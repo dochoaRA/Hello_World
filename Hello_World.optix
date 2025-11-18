@@ -1,0 +1,46 @@
+Project:
+ Name: Hello_World
+ GUID: d0ea5c383eb5f357e87006d96d11fd09
+ ProjectNamespaceIndex: 7
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.6
+ CoreVersion: 4.2
+ EncryptionVersion: 1
+ EncryptionMode: Secrets
+ Dependencies:
+  2:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 5.0
+  3:
+   Uri: 'urn:FTOptix:UI'
+   Module: FTOptix.UI
+   Version: 18.1
+  4:
+   Uri: 'urn:FTOptix:Retentivity'
+   Module: FTOptix.Retentivity
+   Version: 1.0
+  5:
+   Uri: 'urn:FTOptix:HMIProject'
+   Module: FTOptix.HMIProject
+   Version: 7.1
+  6:
+   Uri: 'urn:FTOptix:NativeUI'
+   Module: FTOptix.NativeUI
+   Version: 3.1
+ Statistics:
+  TotalNodeCount: 173
+  Objects: 80
+  ObjectTypes: 2
+  Variables: 91
+  VariableTypes: 0
+  DataTypes: 0
+  Methods: 0
+  References: 2
+  ReferenceTypes: 0
+  Files: 21
+ Nodes:
+ - File: Nodes/Hello_World.yaml
